@@ -3,90 +3,90 @@
   <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/main/assets/banner.gif" alt="Banner" />
 </p>
 
-<h1 align="center">Hey there, I'm Saurav 👋</h1>
+<h1 align="center">Hey there, I'm <span style="color:#38B2AC">Saurav</span> 👋</h1>
 <p align="center">
   <i>Software Engineer | Full Stack Developer | MERN Enthusiast | Cloud Explorer</i>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me  
 
-I'm a passionate **Full-Stack Developer** who enjoys turning complex problems into simple, beautiful, and intuitive solutions.  
-Whether it's designing an API, crafting interactive UIs, or deploying to the cloud – I love every part of the process.
+✨ Passionate **Full-Stack Developer** who enjoys transforming complex problems into elegant and scalable solutions.  
+⚡ Skilled in building **end-to-end applications**, from interactive UIs to deploying on the cloud.  
+🌱 Currently exploring **Cloud-native apps** & **AI-powered solutions**.  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools  
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript" />
   <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-
-  <!-- Database & DevOps -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" />
+  <!-- DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux" />
 </p>
 
 ---
 
-## ⚒️ Projects in Focus
+## ⚒️ Projects in Focus  
 
 🚁 **AgriDrone** – Drone-based smart agriculture system with real-time monitoring, ML insights, and farmer-friendly dashboards.  
 💳 **LifeLink** – A medical emergency wallet that speaks for you when you can’t.  
-💡 **CodeFeasta** – Logical & real-world coding challenges for first-year learners.
+💡 **CodeFeasta** – Logical & real-world coding challenges for first-year learners.  
 
 ---
 
-## 🚀 Competitive Programming Practice  
+## 🚀 Competitive Programming Journey  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtd1U3t8D3nCkY/giphy.gif" width="200px" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250px" alt="Coding Animation"/>
 </p>
 
-- 🔗 **LeetCode:** [My Profile]((https://leetcode.com/u/saurav2520/))  
-- 🔗 **GeeksforGeeks:** [My Profile]((https://www.geeksforgeeks.org/user/saurav2520/))  
+📍 Sharpening my **problem-solving skills** every day through DSA and CP.  
+- 🟠 **LeetCode:** [Visit Profile](https://leetcode.com/u/saurav2520/)  
+- 🟢 **GeeksforGeeks:** [Visit Profile](https://www.geeksforgeeks.org/user/saurav2520/)  
 
-📈 I regularly practice **DSA & problem-solving** to sharpen my skills and push my logical boundaries.
+### 📊 LeetCode Stats  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/saurav2520?theme=radical&font=Baloo%202&ext=heatmap" alt="LeetCode Stats"/>
+</p>
 
 ---
 
 ## 🔥 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurav2520&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurav2520&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav2520&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saurav2520&show_icons=true&theme=radical" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurav2520&theme=radical" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav2520&layout=compact&theme=radical" height="130px"/>
 </p>
 
 ---
 
-## 🌐 Let's Connect!  
+## 🌐 Let’s Connect!  
 
 <p align="center">
-  <a href="mailto:sauravkumar70799@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/saurav2520" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/saurav2520"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
+  <a href="mailto:sauravkumar70799@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saurav2520" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/saurav2520"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🧠 Quote I Live By  
 
-> _“The best way to predict the future is to create it.” – Alan Kay_
+> _“The best way to predict the future is to create it.” – Alan Kay_  
 
 ---
 
-⭐️ _Feel free to explore my repos, raise issues, or collaborate on something exciting!_  
-✨ _And don’t forget to check out my coding journey on LeetCode & GFG!_
+⭐ _Thanks for visiting my profile!_  
+🔥 _Check out my repos, raise issues, or collaborate on something exciting._  
+✨ _Meanwhile, catch me grinding on **LeetCode & GFG**_ 😉  
